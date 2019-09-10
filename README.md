@@ -43,6 +43,9 @@ Try the following exercises but don't worry if you don't get everything at this 
 
 [Exercise 4](exercises/ex_4.md)
 
+To get the React basics watch the awesome [Kent C. Dodds Egghead course](https://egghead.io/courses/the-beginner-s-guide-to-react)
+
+If you like online courses watch [Learn React for free](https://scrimba.com/g/glearnreact)
 
 Now that you have a React.js basic understanding lets try to code the following [Getting started with react - by Tania Rascia](https://www.taniarascia.com/getting-started-with-react) tutorial. You can code along or donwload the source and run it locally.
 
@@ -71,3 +74,4 @@ To get a better understanding of what's going on you can read the React.js offic
 [11. Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
 
 [12. Thinking In React](https://reactjs.org/docs/thinking-in-react.html)
+

@@ -596,7 +596,15 @@ To learn React by examples check out [Awesome React repo](https://github.com/ena
 
 [A Simple React Router v4 Tutorial](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
 
-Tools:
+[React Router Protected Routes Authentication](https://tylermcginnis.com/react-router-protected-routes-authentication)
 
+Tools:
 * [React.js cheatsheet](https://devhints.io/react)
 
+Examples / Tutorials
+[Dev.to - 11 React Examples](https://dev.to/drminnaar/11-react-examples-2e6d)
+[30 Days of React](https://www.fullstackreact.com/30-days-of-react)
+[scotch.io - Getting started with React (2019 edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
+
+Extra
+[React interview questions](https://www.edureka.co/blog/interview-questions/react-interview-questions)

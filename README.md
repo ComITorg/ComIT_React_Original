@@ -602,7 +602,9 @@ Tools:
 * [React.js cheatsheet](https://devhints.io/react)
 
 Examples / Tutorials
+[Learn about Create React App](https://create-react-app.dev/docs/getting-started)
 [Dev.to - 11 React Examples](https://dev.to/drminnaar/11-react-examples-2e6d)
+[tylermcginnis.com - free React Bootcamp](https://tylermcginnis.com/free-react-bootcamp)
 [30 Days of React](https://www.fullstackreact.com/30-days-of-react)
 [scotch.io - Getting started with React (2019 edition)](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 
